@@ -31,3 +31,10 @@ const Nav = () => <ul><li>Home</li></ul>*/
         return item * 10
     }
 )*/
+
+/*
+array = [ , , ] access use .[index]
+objectt = {  access by property.value
+    property : value
+}
+*/
